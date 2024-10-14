@@ -25,7 +25,7 @@ By comparing the performance of these algorithms, the project offers insights in
 
 ### Running the Simulation:
 1. **Binary Exponential Backoff (BEB):**
-   - Navigate to the `csma` directory and run `BEB.py` to simulate the Binary Exponential Backoff algorithm.
+   - Navigate to the `CSMA-Backoff-codes` directory and run `BEB.py` to simulate the Binary Exponential Backoff algorithm.
    
 2. **Exponential Increase Exponential Decrease (EIED):**
    - Execute `EIED.py` to visualize the performance of this algorithm.
